@@ -101,5 +101,3 @@ Robot Framework · SeleniumLibrary · RequestsLibrary · Python · GitHub Action
 **Reena Kotadiya**, QA Automation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reena%20Kotadiya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reena-kotadiya-1a7073170)
-
-💼 Available for freelance test automation projects.
